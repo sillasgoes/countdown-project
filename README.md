@@ -1,2 +1,2 @@
 # countdown-project
-Projeto de um contador de dias 
+Projeto contador de dias
